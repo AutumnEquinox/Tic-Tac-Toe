@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-A walkthrough of a tic-tac-toe game webpage using basic Html, CSS, Bootstrap &amp; JavaScript.
+A walkthrough of a tic-tac-toe game webpage using basic Html, CSS, Bootstrap &amp; Vanilla JavaScript.
 
 <h1> Getting started <h1>
 <p> -> Get all the files present in the repository. <p>
